@@ -6,12 +6,14 @@ export const styles = StyleSheet.create({
      paddingHorizontal: 40,
      borderRadius: 5,
      marginVertical: 10,
+     borderWidth:1,
+     borderColor: '#000'
     },
     buttonPressed: {
         backgroundColor: '#0056b3'
     },
     buttonText: {
-        color: '#fff',
+        color: '#000',
         fontSize: 16,
         textAlign: 'center',
     }
